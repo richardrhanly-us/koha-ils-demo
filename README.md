@@ -25,9 +25,9 @@ Koha is a widely used open-source library management system that supports catalo
 ## System Architecture
 
 User Browser  
-→ Koha Web Interface (Docker container)  
-→ Koha Application Layer  
-→ Database (MariaDB/MySQL)
+- Koha Web Interface (Docker container)  
+- Koha Application Layer  
+- Database (MariaDB/MySQL)
 
 ---
 
